@@ -1,0 +1,5 @@
+Kompetensi SDKD
+A.Kompetensi Daring sinkron
+B.Kompetensi Daring Asinkron
+C.GITHUB
+D.GIT
